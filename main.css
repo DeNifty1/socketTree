@@ -1,0 +1,35 @@
+body {
+    padding: 0px;
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: .75em;
+}
+
+.row {
+    height:40px;
+    padding:0px;
+    margin: :0px;
+    display: flex;
+    align-items: center;
+}
+.items{
+    border: 1px solid black;
+    padding: 3px;
+    font-size: 1.25em;
+    background-color: white;
+}
+
+#header {
+    position: fixed;
+    background-color: #ccc;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 30px;
+    padding-top: 7px;
+    padding-left: 1em;
+    border-bottom: 1px solid black;
+}
+#content {
+    margin-top: 38px;
+}  
