@@ -1,0 +1,1 @@
+web: php bin/socketserver.php
