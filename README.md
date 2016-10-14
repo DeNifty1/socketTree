@@ -1,6 +1,5 @@
 # socketTree
-Passport
-Program creates a tree
+Program creates a tree with random nodes
 
 Utilizes Ratchet library http://socketo.me/ (WebSockets for PHP)
 
