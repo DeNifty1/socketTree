@@ -1,6 +1,5 @@
 var myTree = Array(); // Global to be used across functions
 
-
 /**
  * Websocket Code
  */
